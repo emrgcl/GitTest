@@ -22,3 +22,5 @@ or Powershell
  1. documentation purposes
  1. sample queries
  1. for fun
+ 
+ liked it ?
