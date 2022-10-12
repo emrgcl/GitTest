@@ -1,0 +1,1 @@
+select * from sys.index_resumable_operations 
